@@ -1,0 +1,18 @@
+28) Write a C program that finds the lowest age among different ages
+ 
+
+*Input: Read the number of ages.
+
+*Input: Read the ages and store them in an array.
+
+*Initialize: Set the first age as the minimum age.
+
+*Find the lowest age:
+
+  Use a loop to iterate through the array starting from the second element.
+
+  Compare each age with the current minimum age.
+
+   If an age is smaller than the current minimum age, update the minimum age.
+
+*Output: Display the lowest age.

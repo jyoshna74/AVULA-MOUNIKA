@@ -1,0 +1,20 @@
+29) Write a C program to reverse the elements of an array.
+ 
+
+*Input: Read the array size and the array elements.
+
+*Initialize pointers:
+
+  Set a pointer start to the first element (index 0).
+
+  Set a pointer end to the last element (index size - 1).
+
+*Reverse the elements:
+
+  Swap the elements at start and end.
+
+  Increment the start pointer and decrement the end pointer.
+
+  Repeat until the start pointer is greater than or equal to the end pointer.
+
+*Output: Display the reversed array.

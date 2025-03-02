@@ -1,0 +1,14 @@
+29) Write a C program to find the sum of all elements in an array.
+
+
+*Input: Read the array size and the array elements.
+
+*Initialize a variable to store the sum of the elements.
+
+*Calculate the sum of the elements:
+
+  Use a loop to iterate through the array.
+
+  Add each element to the sum variable.
+
+*Output: Display the sum of the elements.
